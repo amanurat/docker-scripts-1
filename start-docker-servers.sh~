@@ -1,5 +1,0 @@
-#!/bin/bash
-# docker start my-tomcat
-docker start my-mongo
-docker start my-rabbit
-docker ps
