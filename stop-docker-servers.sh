@@ -4,4 +4,4 @@ docker stop my-mongo
 docker stop my-rabbit
 docker stop my-cassandra
 docker stop my-kong
-docker ps
+docker stop my-eventstore
